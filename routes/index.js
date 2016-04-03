@@ -28,7 +28,6 @@ router.get('/api/auth', function (req, res, next) {
     }else{
         res.json('error');
     }
-
 });
 
 router.post('/api/msg', function (req, res, next) {
