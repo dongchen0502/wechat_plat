@@ -2,3 +2,4 @@
 logs/*
 wechat_plat.iml
 .DS_Store
+node_modules/*
